@@ -1,2 +1,1 @@
-# React_useMemo_hook
-Created with CodeSandbox
+Simple way to use useMemo Hook in React.
